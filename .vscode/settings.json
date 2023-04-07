@@ -1,0 +1,7 @@
+{
+    "html-css-class-completion.enableEmmetSupport": true,
+    "liveServer.settings.fullReload": true,
+    "css.format.enable": true,
+    "css.format.spaceAroundSelectorSeparator": true,
+    "css.completion.triggerPropertyValueCompletion": true
+}
